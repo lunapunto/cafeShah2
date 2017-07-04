@@ -8,13 +8,13 @@
 */
 
 // Nombre del sitio
-define('SITENAME', 'LP Template');
+define('SITENAME', 'Café Shah');
 
 // Separador de título, ex. Título - LP Template
 define('GLOBAL_SEP', '-');
 
 // Nombre simplificado del sitio
-define('SLUG','lptemplatea');
+define('SLUG','cafeshah');
 
 
 // Versión del sitio
@@ -22,7 +22,8 @@ define('currentVersion', '0.1');
 
 
 // Postmark
-#define('postmark_api_key', 'f24ea97f-faa3-40ac-85ed-e8c7fd0a993e');
+define('postmark_api_key', '784821e0-3ab7-443e-b5c0-9e8507ef52cb');
+define('postmark_template_id', '2141206');
 
 // Descripción <meta />
 $description = '';

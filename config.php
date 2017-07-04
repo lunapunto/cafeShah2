@@ -15,7 +15,7 @@ define('is_production', $production);
 
 
 // Directorios
-define('dir','http://'.$_SERVER['HTTP_HOST'].'/LPTemplate');
+define('dir','http://'.$_SERVER['HTTP_HOST'].'/CafeShah2');
 define('admin',dir.'/admin');
 define('asset',dir.'/assets');
 define('css',asset.'/css');
